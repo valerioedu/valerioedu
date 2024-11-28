@@ -9,7 +9,7 @@ I'm going to share all of my major projects, especially low level C programs, ho
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,cs,py,html,css,js,dotnet,cmake,docker,pytorch,tensorflow,opencv,raspberrypi,arduino,git,github,apple,windows,kali,vscode,clion,rider,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,cs,rs,dotnet,cmake,docker,opencv,raspberrypi,arduino,git,github,apple,windows,kali,vscode,clion,rider,visualstudio)](https://skillicons.dev)
 
 
 
