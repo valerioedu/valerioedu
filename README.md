@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Valerio and I'm a first year student in both Polytechnic of Milan - Aerospace Engineering and University of Pisa - Computer Science. 
+My name is Valerio and I'm a first year student in both Polytechnic of Milan - Information Engineering and University of Pisa - Computer Science. 
 In my spare time I enjoy working on low level projects and studying physics and aerodynamics for motorsport🏎️
 
 ## What are you going to find on my profile?
