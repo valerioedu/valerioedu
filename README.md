@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Valerio and I'm a first year student at the Polytechnic of Milan - Information Engineering. 
+My name is Valerio and I'm a second year student at the Polytechnic of Milan - Information Engineering. 
 In my spare time I enjoy working on low level projects and studying physics, avionics and aerodynamics for motorsport🏎️
 
 ## What are you going to find on my profile?
